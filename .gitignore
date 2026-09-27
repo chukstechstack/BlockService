@@ -1,0 +1,54 @@
+# Visual Studio / .NET Framework
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.dbmdl
+*.jfm
+*.psess
+*.vsp
+*.vspx
+*.sap
+*.cache
+*.log
+*.pdb
+*.obj
+*.exe
+*.dll
+*.ilk
+*.idb
+*.pch
+*.tlb
+*.tli
+*.tmp
+*.bak
+*.orig
+*.rej
+*.ncb
+*.aps
+*.sbr
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+TestResults/
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+*.nuspec
+
+# OS / editor noise
+Thumbs.db
+Desktop.ini
+*.swp
